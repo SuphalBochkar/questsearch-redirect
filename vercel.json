@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "./",
+      "dest": "https://www.github/suphalbochkar",
+      "status": 302
+    }
+  ]
+}
