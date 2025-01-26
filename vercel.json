@@ -2,8 +2,8 @@
   "version": 2,
   "routes": [
     {
-      "src": "./",
-      "dest": "https://www.github/suphalbochkar",
+      "src": "/",
+      "dest": "https://github.com/SuphalBochkar/questsearch",
       "status": 302
     }
   ]
